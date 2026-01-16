@@ -1,2 +1,6 @@
 */__pycache__/
 *.pyc
+*-info/
+*dist/
+*build/
+.vscode/
