@@ -4,3 +4,7 @@
 *dist/
 *build/
 .vscode/
+*tester.py
+*.jpg
+*.jpeg
+*.csv
